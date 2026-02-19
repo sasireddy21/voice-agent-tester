@@ -1,0 +1,3 @@
+Scenario: edge_case
+Observed issues:
+- System could not process 3:30 AM appointment request.

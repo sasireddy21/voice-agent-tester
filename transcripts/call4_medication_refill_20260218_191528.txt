@@ -1,0 +1,6 @@
+Scenario: medication_refill
+Message sent: Could I get a refill for my blood pressure medication?
+Transcript:
+- Call connected successfully.
+- System repeated/confirmed request as expected.
+- Call ended successfully.

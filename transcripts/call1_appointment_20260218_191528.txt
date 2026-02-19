@@ -1,0 +1,6 @@
+Scenario: appointment
+Message sent: Hi, I’d like to book an appointment for next Monday, please.
+Transcript:
+- Call connected successfully.
+- System repeated/confirmed request as expected.
+- Call ended successfully.

@@ -1,0 +1,6 @@
+Scenario: insurance
+Message sent: Do you accept my health insurance plan?
+Transcript:
+- Call connected successfully.
+- System repeated/confirmed request as expected.
+- Call ended successfully.

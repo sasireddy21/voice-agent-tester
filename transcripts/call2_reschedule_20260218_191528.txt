@@ -1,0 +1,6 @@
+Scenario: reschedule
+Message sent: Hello, can I move my Monday appointment to Wednesday?
+Transcript:
+- Call connected successfully.
+- System repeated/confirmed request as expected.
+- Call ended successfully.

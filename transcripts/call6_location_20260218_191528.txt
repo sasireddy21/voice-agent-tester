@@ -1,0 +1,6 @@
+Scenario: location
+Message sent: Can you tell me the office address?
+Transcript:
+- Call connected successfully.
+- System repeated/confirmed request as expected.
+- Call ended successfully.

@@ -1,0 +1,6 @@
+Scenario: mixed_requests
+Message sent: I need to reschedule an appointment and also refill my meds.
+Transcript:
+- Call connected successfully.
+- System repeated/confirmed request as expected.
+- Call ended successfully.

@@ -1,0 +1,3 @@
+Scenario: mixed_requests
+Observed issues:
+- None — call went smoothly.

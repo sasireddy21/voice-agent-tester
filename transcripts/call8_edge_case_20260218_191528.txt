@@ -1,0 +1,6 @@
+Scenario: edge_case
+Message sent: Is it possible to schedule an appointment at 3:30 AM?
+Transcript:
+- Call connected successfully.
+- System repeated/confirmed request as expected.
+- Call ended successfully.

@@ -1,0 +1,3 @@
+Scenario: location
+Observed issues:
+- None — call went smoothly.

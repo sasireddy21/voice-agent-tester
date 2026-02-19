@@ -1,0 +1,6 @@
+Scenario: stress_test
+Message sent: Please tell me everything about my appointments, medications, and insurance.
+Transcript:
+- Call connected successfully.
+- System repeated/confirmed request as expected.
+- Call ended successfully.

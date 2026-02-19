@@ -1,0 +1,6 @@
+Scenario: office_hours
+Message sent: What time do your offices open and close this week?
+Transcript:
+- Call connected successfully.
+- System repeated/confirmed request as expected.
+- Call ended successfully.

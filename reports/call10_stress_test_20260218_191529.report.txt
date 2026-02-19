@@ -1,0 +1,3 @@
+Scenario: stress_test
+Observed issues:
+- None — call went smoothly.

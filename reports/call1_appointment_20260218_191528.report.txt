@@ -1,0 +1,3 @@
+Scenario: appointment
+Observed issues:
+- None — call went smoothly.
